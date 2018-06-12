@@ -1,40 +1,7 @@
 {
 .appVersion = "1141";
 DisplayStrings = (
-"/baht",
-"¤",
-"/euro",
-"/florin",
-"/guarani",
-"/lira",
-"/liraTurkish",
-"/naira",
-"/peseta",
-"/peso",
-"/ruble",
-"/rupeeIndian",
-"£",
-"¥",
-Y,
-"/radical",
-"/partialdiff",
-"%",
-"/perthousand",
-"@",
-"&",
-"¶",
-"§",
-"©",
-"®",
-"/published",
-"/yamakkan-thai",
-"/doChada-thai",
-"/koKai-thai",
-"/soRusi-thai",
-"8½",
-"/ru-thai.short/lu-thai.short/koKai-thai/thoThung-thai/phoSamphao-thai/ru-thai/lu-thai/doChada-thai/doChada-thai.short/toPatak-thai/toPatak-thai.short/ru_lakkhangyao-thai/lu_lakkhangyao-thai/yoYing-thai/yoYing-thai.less",
-"/ru-thai.short/lu-thai.short/koKai-thai/thoThung-thai/phoSamphao-thai/ru-thai/lu-thai/doChada-thai/doChada-thai.short/toPatak-thai/toPatak-thai.short/ru_lakkhangyao-thai/lu_lakkhangyao-thai/yoYing-thai/yoYing-thai.less/khoKhai-thai/khoKhuat-thai/choChang-thai/soSo-thai/khoKhwai-thai/koKai-thai/khoKhon-thai/soSala-thai/doDek-thai/toTao-thai/thoThahan-thai/thoNangmontho-thai/noNu-thai/moMa-thai/choChoe-thai/noNen-thai/thoPhuthao-thai/khoRakhang-thai/thoThong-thai/roRua-thai/choChan-thai/woWaen-thai/ngoNgu-thai/thoThan-thai/thoThan-thai.less/choChing-thai/loLing-thai/soSua-thai/boBaimai-thai/poPla-thai/soRusi-thai/yoYak-thai/phoPhung-thai/foFa-thai/foFan-thai/phoPhan-thai/hoHip-thai/loChula-thai/loChula-thai.short/oAng-thai/hoNokhuk-thai",
-"/koKai-thai/ru-thai.short/thoThung-thai/ru-thai/ru_lakkhangyao-thai/yoYing-thai/yoYing-thai.less/choChoe-thai/noNen-thai"
+"/soRusi-thai"
 );
 copyright = "Copyright © 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
 customParameters = (
@@ -118479,7 +118446,7 @@ unicode = 0E1B;
 },
 {
 glyphname = "soRusi-thai";
-lastChange = "2018-05-25 05:11:52 +0000";
+lastChange = "2018-06-12 10:44:56 +0000";
 layers = (
 {
 anchors = (
@@ -119639,23 +119606,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"319 272 OFFCURVE",
-"304 286 OFFCURVE",
-"304 306 CURVE SMOOTH",
-"304 337 OFFCURVE",
-"328 358 OFFCURVE",
-"356 358 CURVE SMOOTH",
-"379 358 OFFCURVE",
-"393 343 OFFCURVE",
-"393 322 CURVE SMOOTH",
-"393 295 OFFCURVE",
-"371 272 OFFCURVE",
-"341 272 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
 "140 457 OFFCURVE",
 "125 469 OFFCURVE",
 "125 495 CURVE SMOOTH",
@@ -119668,6 +119618,23 @@ nodes = (
 "221 482 OFFCURVE",
 "195 457 OFFCURVE",
 "165 457 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"319 272 OFFCURVE",
+"304 286 OFFCURVE",
+"304 306 CURVE SMOOTH",
+"304 337 OFFCURVE",
+"328 358 OFFCURVE",
+"356 358 CURVE SMOOTH",
+"379 358 OFFCURVE",
+"393 343 OFFCURVE",
+"393 322 CURVE SMOOTH",
+"393 295 OFFCURVE",
+"371 272 OFFCURVE",
+"341 272 CURVE SMOOTH"
 );
 }
 );
