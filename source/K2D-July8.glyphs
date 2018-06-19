@@ -1,7 +1,7 @@
 {
 .appVersion = "1141";
 DisplayStrings = (
-"/soRusi-thai"
+"AAABACADAEAFAGAHAIAJAKALAMANAOAPAQARASATAUAVAWAXAYAZA\012\012BABBBCBDBEBFBGBHBIBJBKBLBMBNBOBPBQBRBSBTBUBVBWBXBYBZB\012\012CACBCCCDCECFCGCHCICJCKCLCMCNCOCPCQCRCSCTCUCVCWCXCYCZC\012\012DADBDCDDDEDFDGDHDIDJDKDLDMDNDODPDQDRDSDTDUDVDWDXDYDZD\012\012EAEBECEDEEEFEGEHEIEJEKELEMENEOEPEQERESETEUEVEWEXEYEZE\012\012FAFBFCFDFEFFFGFHFIFJFKFLFMFNFOFPFQFRFSFTFUFVFWFXFYFZF\012\012GAGBGCGDGEGFGGGHGIGJGKGLGMGNGOGPGQGRGSGTGUGVGWGXGYGZG\012\012HAHBHCHDHEHFHGHHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH\012\012IAIBICIDIEIFIGIHIIIJIKILIMINIOIPIQIRISITIUIVIWIXIYIZI\012\012JAJBJCJDJEJFJGJHJIJJJKJLJMJNJOJPJQJRJSJTJUJVJWJXJYJZJ\012\012KAKBKCKDKEKFKGKHKIKJKKKLKMKNKOKPKQKRKSKTKUKVKWKXKYKZK\012\012LALBLCLDLELFLGLHLILJLKLLLMLNLOLPLQLRLSLTLULVLWLXLYLZL\012\012MAMBMCMDMEMFMGMHMIMJMKMLMMMNMOMPMQMRMSMTMUMVMWMXMYMZM\012\012NANBNCNDNENFNGNHNINJNKNLNMNNNONPNQNRNSNTNUNVNWNXNYNZN\012\012OAOBOCODOEOFOGOHOIOJOKOLOMONOOOPOQOROSOTOUOVOWOXOYOZO\012\012PAPBPCPDPEPFPGPHPIPJPKPLPMPNPOPPPQPRPSPTPUPVPWPXPYPZP\012\012QAQBQCQDQEQFQGQHQIQJQKQLQMQNQOQPQQQRQSQTQUQVQWQXQYQZQ\012\012RARBRCRDRERFRGRHRIRJRKRLRMRNRORPRQRRRSRTRURVRWRXRYRZR\012\012SASBSCSDSESFSGSHSISJSKSLSMSNSOSPSQSRSSSTSUSVSWSXSYSZS\012\012TATBTCTDTETFTGTHTITJTKTLTMTNTOTPTQTRTSTTTUTVTWTXTYTZT\012\012UAUBUCUDUEUFUGUHUIUJUKULUMUNUOUPUQURUSUTUUUVUWUXUYUZU\012\012VAVBVCVDVEVFVGVHVIVJVKVLVMVNVOVPVQVRVSVTVUVVVWVXVYVZV\012\012WAWBWCWDWEWFWGWHWIWJWKWLWMWNWOWPWQWRWSWTWUWVWWWXWYWZW\012\012XAXBXCXDXEXFXGXHXIXJXKXLXMXNXOXPXQXRXSXTXUXVXWXXXYXZX\012\012YAYBYCYDYEYFYGYHYIYJYKYLYMYNYOYPYQYRYSYTYUYVYWYXYYYZY\012\012ZAZBZCZDZEZFZGZHZIZJZKZLZMZNZOZPZQZRZSZTZUZVZWZXZYZZZ\012\012aaabacadaeafagahaiajakalamanaoapaqarasatauavawaxayaza\012\012babbbcbdbebfbgbhbibjbkblbmbnbobpbqbrbsbtbubvbwbxbybzb\012\012cacbcccdcecfcgchcicjckclcmcncocpcqcrcsctcucvcwcxcyczc\012\012dadbdcdddedfdgdhdidjdkdldmdndodpdqdrdsdtdudvdwdxdydzd\012\012eaebecedeeefegeheiejekelemeneoepeqereseteuevewexeyeze\012\012fafbfcfdfefffgfhfifjfkflfmfnfofpfqfrfsftfufvfwfxfyfzf\012\012gagbgcgdgegfggghgigjgkglgmgngogpgqgrgsgtgugvgwgxgygzg\012\012hahbhchdhehfhghhhihjhkhlhmhnhohphqhrhshthuhvhwhxhyhzh\012\012iaibicidieifigihiiijikiliminioipiqirisitiuiviwixiyizi\012\012jajbjcjdjejfjgjhjijjjkjljmjnjojpjqjrjsjtjujvjwjxjyjzj\012\012kakbkckdkekfkgkhkikjkkklkmknkokpkqkrksktkukvkwkxkykzk\012\012lalblcldlelflglhliljlklllmlnlolplqrlsltlulvlwlxlylzl\012\012mambmcmdmemfmgmhmimjmkmlmmmnmompmqmrmsmtmumvmwmxmymzm\012\012nanbncndnenfngnhninjnknlnmnnnonpnqnrnsntnunvnwnxnynzn\012\012oaobocodoeofogohoiojokolomonooopoqorosotouovowoxoyozo\012\012papbpcpdpepfpgphpipjpkplpmpnpopppqprpsptpupvpwpxpypzp\012\012qaqbqcqdqeqfqgqhqiqjqkqlqmqnqoqpqqqrqsqtquqvqwqxqyqzqrd\012\012rarbrcrdrerfrgrhrirjrkrlrmrnrorprqrrrsrtrurvrwrxryrzr\012\012sasbscsdsesfsgshsisjskslsmsnsospsqsrssstsusvswsxsyszs\012\012tatbtctdtetftgthtitjtktltmtntotptqtrtstttutvtwtxtytzt\012\012uaubucudueufuguhuiujukulumunuoupuqurusutuuuvuwuxuyuzu\012\012vavbvcvdvevfvgvhvivjvkvlvmvnvovpvqvrvsvtvuvvvwvxvyvzv\012\012wawbwcwdwewfwgwhwiwjwkwlwmwnwowpwqwrwswtwuwvwwwxwywzw\012\012xaxbxcxdxexfxgxhxixjxkxlxmxnxoxpxqxrxsxtxuxvxwxxxyxzx\012\012yaybycydyeyfygyhyiyjykylymynyoypyqyrysytyuyvywyxyyyzy\012\012zazbzczdzezfzgzhzizjzkzlzmznzozpzqzrzsztzuzvzwzxzyzzz\012\012A/quoteleft A/quoteright A/quotedblleft A/quotedblright A\012\012B/quoteleft B/quoteright B/quotedblleft B/quotedblright B\012\012C/quoteleft C/quoteright C/quotedblleft C/quotedblright C\012\012D/quoteleft D/quoteright D/quotedblleft D/quotedblright D\012\012E/quoteleft E/quoteright E/quotedblleft E/quotedblright E\012\012F/quoteleft F/quoteright F/quotedblleft F/quotedblright F\012\012G/quoteleft G/quoteright G/quotedblleft G/quotedblright G\012\012H/quoteleft H/quoteright H/quotedblleft H/quotedblright H\012\012I/quoteleft I/quoteright I/quotedblleft I/quotedblright I\012\012J/quoteleft J/quoteright J/quotedblleft J/quotedblright J\012\012K/quoteleft K/quoteright K/quotedblleft K/quotedblright K\012\012L/quoteleft L/quoteright L/quotedblleft L/quotedblright L\012\012M/quoteleft M/quoteright M/quotedblleft M/quotedblright M\012\012N/quoteleft N/quoteright N/quotedblleft N/quotedblright N\012\012O/quoteleft O/quoteright O/quotedblleft O/quotedblright O\012\012P/quoteleft P/quoteright P/quotedblleft P/quotedblright P\012\012Q/quoteleft Q/quoteright Q/quotedblleft Q/quotedblright Q\012\012R/quoteleft R/quoteright R/quotedblleft R/quotedblright R\012\012S/quoteleft S/quoteright S/quotedblleft S/quotedblright S\012\012T/quoteleft T/quoteright T/quotedblleft T/quotedblright T\012\012U/quoteleft U/quoteright U/quotedblleft U/quotedblright U\012\012V/quoteleft V/quoteright V/quotedblleft V/quotedblright V\012\012W/quoteleft W/quoteright W/quotedblleft W/quotedblright W\012\012X/quoteleft X/quoteright X/quotedblleft X/quotedblright X\012\012Y/quoteleft Y/quoteright Y/quotedblleft Y/quotedblright Y\012\012Z/quoteleft Z/quoteright Z/quotedblleft Z/quotedblright Z\012\012a/quoteleft a/quoteright a/quotedblleft a/quotedblright a\012\012b/quoteleft b/quoteright b/quotedblleft b/quotedblright b\012\012c/quoteleft c/quoteright c/quotedblleft c/quotedblright c\012\012d/quoteleft d/quoteright d/quotedblleft d/quotedblright d\012\012e/quoteleft e/quoteright e/quotedblleft e/quotedblright e\012\012f/quoteleft f/quoteright f/quotedblleft f/quotedblright f\012\012g/quoteleft g/quoteright g/quotedblleft g/quotedblright g\012\012h/quoteleft h/quoteright h/quotedblleft h/quotedblright h\012\012i/quoteleft i/quoteright i/quotedblleft i/quotedblright i\012\012j/quoteleft j/quoteright j/quotedblleft j/quotedblright j\012\012k/quoteleft k/quoteright k/quotedblleft k/quotedblright k\012\012l/quoteleft l/quoteright l/quotedblleft l/quotedblright l\012\012m/quoteleft m/quoteright m/quotedblleft m/quotedblright m\012\012n/quoteleft n/quoteright n/quotedblleft n/quotedblright n\012\012o/quoteleft o/quoteright o/quotedblleft o/quotedblright o\012\012p/quoteleft p/quoteright p/quotedblleft p/quotedblright p\012\012q/quoteleft q/quoteright q/quotedblleft q/quotedblright q\012\012r/quoteleft r/quoteright r/quotedblleft r/quotedblright r\012\012s/quoteleft s/quoteright s/quotedblleft s/quotedblright s\012\012t/quoteleft t/quoteright t/quotedblleft t/quotedblright t\012\012u/quoteleft u/quoteright u/quotedblleft u/quotedblright u\012\012v/quoteleft v/quoteright v/quotedblleft v/quotedblright v\012\012w/quoteleft w/quoteright w/quotedblleft w/quotedblright w\012\012x/quoteleft x/quoteright x/quotedblleft x/quotedblright x\012\012y/quoteleft y/quoteright y/quotedblleft y/quotedblright y\012\012z/quoteleft z/quoteright z/quotedblleft z/quotedblright z\012\0120/quoteleft 0/quoteright 0/quotedblleft 0/quotedblright 0\012\0121/quoteleft 1/quoteright 1/quotedblleft 1/quotedblright 1\012\0122/quoteleft 2/quoteright 2/quotedblleft 2/quotedblright 2\012\0123/quoteleft 3/quoteright 3/quotedblleft 3/quotedblright 3\012\0124/quoteleft 4/quoteright 4/quotedblleft 4/quotedblright 4\012\0125/quoteleft 5/quoteright 5/quotedblleft 5/quotedblright 5\012\0126/quoteleft 6/quoteright 6/quotedblleft 6/quotedblright 6\012\0127/quoteleft 7/quoteright 7/quotedblleft 7/quotedblright 7\012\0128/quoteleft 8/quoteright 8/quotedblleft 8/quotedblright 8\012\0129/quoteleft 9/quoteright 9/quotedblleft 9/quotedblright 9\012\012AaAbAcAdAeAfAgAhAiAjAkAlAmAnAoApAqArAsAtAuAvAwAxAyAzA\012\012BaBbBcBdBeBfBgBhBiBjBkBlBmBnBoBpBqBrBsBtBuBvBwBxByBzB\012\012CaCbCcCdCeCfCgChCiCjCkClCmCnCoCpCqCrCsCtCuCvCwCxCyCzC\012\012DaDbDcDdDeDfDgDhDiDjDkDlDmDnDoDpDqDrDsDtDuDvDwDxDyDzD\012\012EaEbEcEdEeEfEgEhEiEjEkElEmEnEoEpEqErEsEtEuEvEwExEyEzE\012\012FaFbFcFdFeFfFgFhFiFjFkFlFmFnFoFpFqFrFsFtFuFvFwFxFyFzF\012\012GaGbGcGdGeGfGgGhGiGjGkGlGmGnGoGpGqGrGsGtGuGvGwGxGyGzG\012\012HaHbHcHdHeHfHgHhHiHjHkHlHmHnHoHpHqHrHsHtHuHvHwHxHyHzH\012\012IaIbIcIdIeIfIgIhIiIjIkIlImInIoIpIqIrIsItIuIvIwIxIyIzI\012\012JaJbJcJdJeJfJgJhJiJjJkJlJmJnJoJpJqJrJsJtJuJvJwJxJyJzJ\012\012KaKbKcKdKeKfKgKhKiKjKkKlKmKnKoKpKqKrKsKtKuKvKwKxKyKzK\012\012LaLbLcLdLeLfLgLhLiLjLkLlLmLnLoLpLqLrLsLtLuLvLwLxLyLzL\012\012MaMbMcMdMeMfMgMhMiMjMkMlMmMnMoMpMqMrMsMtMuMvMwMxMyMzM\012\012NaNbNcNdNeNfNgNhNiNjNkNlNmNnNoNpNqNrNsNtNuNvNwNxNyNzN\012\012OaObOcOdOeOfOgOhOiOjOkOlOmOnOoOpOqOrOsOtOuOvOwOxOyOzO\012\012PaPbPcPdPePfPgPhPiPjPkPlPmPnPoPpPqPrPsPtPuPvPwPxPyPzP\012\012QaQbQcQdQeQfQgQhQiQjQkQlQmQnQoQpQqQrQsQtQuQvQwQxQyQzQ\012\012RaRbRcRdReRfRgRhRiRjRkRlRmRnRoRpRqRrRsRtRuRvRwRxRyRzR\012\012SaSbScSdSeSfSgShSiSjSkSlSmSnSoSpSqSrSsStSuSvSwSxSySzS\012\012TaTbTcTdTeTfTgThTiTjTkTlTmTnToTpTqTrTsTtTuTvTwTxTyTzT\012\012UaUbUcUdUeUfUgUhUiUjUkUlUmUnUoUpUqUrUsUtUuUvUwUxUyUz\012\012VaVbVcVdVeVfVgVhViVjVkVlVmVnVoVpVqVrVsVtVuVvVwVxVyVzV\012\012WaWbWcWdWeWfWgWhWiWjWkWlWmWnWoWpWqWrWsWtWuWvWwWxWyWzW\012\012XaXbXcXdXeXfXgXhXiXjXkXlXmXnXoXpXqXrXsXtXuXvXwXxXyXzX\012\012YaYbYcYdYeYfYgYhYiYjYkYlYmYnYoYpYqYrYsYtYuYvYwYxYyYzY\012\012ZaZbZcZdZeZfZgZhZiZjZkZlZmZnZoZpZqZrZsZtZuZvZwZxZyZzZ\012\012.A.B.C.D.E.F.G.H.I.J.K.L.M.N.O.P.Q.R.S.T.U.V.W.X.Y.Z.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.q.r.s.t.u.v.w.x.y.z.0.1.2.3.4.5.6.7.8.9.\012\012A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,0,1,2,3,4,5,6,7,8,9,\012\012a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,"
 );
 copyright = "Copyright © 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
 customParameters = (
@@ -2713,7 +2713,7 @@ unicode = 0044;
 },
 {
 glyphname = E;
-lastChange = "2018-05-25 05:11:52 +0000";
+lastChange = "2018-06-19 04:55:27 +0000";
 layers = (
 {
 anchors = (
@@ -14423,7 +14423,7 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2018-05-25 05:11:52 +0000";
+lastChange = "2018-06-19 04:56:14 +0000";
 layers = (
 {
 anchors = (
@@ -15461,7 +15461,7 @@ unicode = 0064;
 },
 {
 glyphname = e;
-lastChange = "2018-05-25 05:11:52 +0000";
+lastChange = "2018-06-19 04:57:32 +0000";
 layers = (
 {
 anchors = (
@@ -16899,7 +16899,7 @@ unicode = 0067;
 },
 {
 glyphname = h;
-lastChange = "2018-05-25 05:11:52 +0000";
+lastChange = "2018-06-19 05:52:14 +0000";
 layers = (
 {
 anchors = (
@@ -17601,7 +17601,7 @@ unicode = 0069;
 },
 {
 glyphname = j;
-lastChange = "2018-05-25 05:11:52 +0000";
+lastChange = "2018-06-19 05:51:12 +0000";
 layers = (
 {
 layerId = "671CEF0C-3804-4AAB-8F09-7652EF8CF253";
@@ -23361,7 +23361,7 @@ unicode = 0075;
 },
 {
 glyphname = v;
-lastChange = "2018-05-25 05:11:52 +0000";
+lastChange = "2018-06-19 05:03:56 +0000";
 layers = (
 {
 anchors = (
@@ -23474,19 +23474,19 @@ nodes = (
 "297 4 CURVE SMOOTH",
 "501 504 LINE",
 "495 507 OFFCURVE",
-"489 509 OFFCURVE",
-"482 509 CURVE SMOOTH",
-"461 509 OFFCURVE",
-"451 497 OFFCURVE",
-"444 480 CURVE SMOOTH",
-"267 34 LINE",
-"263 36 LINE",
-"276 69 LINE",
-"112 480 LINE SMOOTH",
-"106 495 OFFCURVE",
-"97 509 OFFCURVE",
-"75 509 CURVE SMOOTH",
-"67 509 OFFCURVE",
+"487 509 OFFCURVE",
+"480 509 CURVE SMOOTH",
+"459 509 OFFCURVE",
+"449 497 OFFCURVE",
+"442 480 CURVE SMOOTH",
+"267 37 LINE",
+"263 39 LINE",
+"276 72 LINE",
+"114 480 LINE SMOOTH",
+"108 495 OFFCURVE",
+"99 509 OFFCURVE",
+"77 509 CURVE SMOOTH",
+"69 509 OFFCURVE",
 "61 507 OFFCURVE",
 "55 504 CURVE",
 "259 4 LINE SMOOTH",
@@ -23609,19 +23609,19 @@ nodes = (
 "253 4 CURVE SMOOTH",
 "545 504 LINE",
 "538 508 OFFCURVE",
-"529 509 OFFCURVE",
-"524 509 CURVE SMOOTH",
-"502 509 OFFCURVE",
-"491 497 OFFCURVE",
-"481 480 CURVE SMOOTH",
-"225 34 LINE",
-"221 36 LINE",
-"240 69 LINE",
-"149 480 LINE SMOOTH",
-"147 491 OFFCURVE",
-"142 509 OFFCURVE",
-"117 509 CURVE SMOOTH",
-"110 509 OFFCURVE",
+"527 509 OFFCURVE",
+"522 509 CURVE SMOOTH",
+"500 509 OFFCURVE",
+"489 497 OFFCURVE",
+"479 480 CURVE SMOOTH",
+"225 37 LINE",
+"221 39 LINE",
+"240 72 LINE",
+"151 480 LINE SMOOTH",
+"149 491 OFFCURVE",
+"144 509 OFFCURVE",
+"119 509 CURVE SMOOTH",
+"112 509 OFFCURVE",
 "105 507 OFFCURVE",
 "99 504 CURVE",
 "215 4 LINE SMOOTH",
@@ -23639,7 +23639,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2018-05-25 05:11:52 +0000";
+lastChange = "2018-06-19 05:04:10 +0000";
 layers = (
 {
 anchors = (
@@ -23775,23 +23775,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"365 427 LINE",
-"357 455 LINE",
-"360 456 LINE",
+"365 426 LINE",
+"357 454 LINE",
+"360 455 LINE",
 "499 -9 LINE",
 "522 -9 OFFCURVE",
 "534 6 OFFCURVE",
 "540 27 CURVE SMOOTH",
 "680 505 LINE",
 "671 508 OFFCURVE",
-"667 509 OFFCURVE",
-"662 509 CURVE SMOOTH",
-"641 509 OFFCURVE",
-"631 499 OFFCURVE",
-"626 480 CURVE SMOOTH",
-"505 50 LINE",
-"502 52 LINE",
-"509 80 LINE",
+"666 509 OFFCURVE",
+"661 509 CURVE SMOOTH",
+"640 509 OFFCURVE",
+"630 499 OFFCURVE",
+"625 480 CURVE SMOOTH",
+"505 51 LINE",
+"502 53 LINE",
+"509 81 LINE",
 "389 492 LINE SMOOTH",
 "385 505 OFFCURVE",
 "375 509 OFFCURVE",
@@ -23799,14 +23799,14 @@ nodes = (
 "360 509 OFFCURVE",
 "351 505 OFFCURVE",
 "347 492 CURVE SMOOTH",
-"217 49 LINE",
-"213 51 LINE",
-"221 79 LINE",
-"108 480 LINE SMOOTH",
-"102 502 OFFCURVE",
-"92 509 OFFCURVE",
-"73 509 CURVE SMOOTH",
-"66 509 OFFCURVE",
+"217 50 LINE",
+"213 52 LINE",
+"221 80 LINE",
+"109 480 LINE SMOOTH",
+"103 502 OFFCURVE",
+"93 509 OFFCURVE",
+"74 509 CURVE SMOOTH",
+"67 509 OFFCURVE",
 "61 507 OFFCURVE",
 "55 505 CURVE",
 "194 27 LINE SMOOTH",
@@ -23952,23 +23952,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"398 427 LINE",
-"395 455 LINE",
-"398 456 LINE",
+"398 426 LINE",
+"395 454 LINE",
+"398 455 LINE",
 "455 -9 LINE",
 "478 -9 OFFCURVE",
 "490 6 OFFCURVE",
 "500 27 CURVE SMOOTH",
 "724 505 LINE",
 "713 509 OFFCURVE",
-"710 509 OFFCURVE",
-"707 509 CURVE SMOOTH",
-"684 509 OFFCURVE",
-"674 497 OFFCURVE",
-"666 480 CURVE SMOOTH",
-"469 50 LINE",
-"466 52 LINE",
-"478 80 LINE",
+"709 509 OFFCURVE",
+"706 509 CURVE SMOOTH",
+"683 509 OFFCURVE",
+"673 497 OFFCURVE",
+"665 480 CURVE SMOOTH",
+"469 51 LINE",
+"466 53 LINE",
+"478 81 LINE",
 "431 492 LINE SMOOTH",
 "429 506 OFFCURVE",
 "419 509 OFFCURVE",
@@ -23976,14 +23976,14 @@ nodes = (
 "405 509 OFFCURVE",
 "395 505 OFFCURVE",
 "389 492 CURVE SMOOTH",
-"181 49 LINE",
-"177 51 LINE",
-"190 79 LINE",
-"148 480 LINE SMOOTH",
-"146 502 OFFCURVE",
-"137 509 OFFCURVE",
-"118 509 CURVE SMOOTH",
-"111 509 OFFCURVE",
+"181 50 LINE",
+"177 52 LINE",
+"190 80 LINE",
+"149 480 LINE SMOOTH",
+"147 502 OFFCURVE",
+"138 509 OFFCURVE",
+"119 509 CURVE SMOOTH",
+"112 509 OFFCURVE",
 "105 507 OFFCURVE",
 "99 505 CURVE",
 "154 27 LINE SMOOTH",
@@ -24003,7 +24003,7 @@ unicode = 0077;
 },
 {
 glyphname = x;
-lastChange = "2018-05-25 05:11:52 +0000";
+lastChange = "2018-06-19 05:03:24 +0000";
 layers = (
 {
 anchors = (
@@ -24064,40 +24064,40 @@ paths = (
 {
 closed = 1;
 nodes = (
-"140 -9 OFFCURVE",
-"168 1 OFFCURVE",
-"180 19 CURVE SMOOTH",
-"288 180 LINE",
-"397 19 LINE SMOOTH",
-"409 2 OFFCURVE",
-"442 -9 OFFCURVE",
-"471 -9 CURVE SMOOTH",
-"493 -9 OFFCURVE",
+"142 -9 OFFCURVE",
+"170 1 OFFCURVE",
+"182 19 CURVE SMOOTH",
+"288 178 LINE",
+"395 19 LINE SMOOTH",
+"407 2 OFFCURVE",
+"440 -9 OFFCURVE",
+"469 -9 CURVE SMOOTH",
+"491 -9 OFFCURVE",
 "523 -3 OFFCURVE",
 "542 18 CURVE",
-"365 257 LINE",
+"367 257 LINE",
 "527 489 LINE",
 "515 502 OFFCURVE",
-"483 509 OFFCURVE",
-"462 509 CURVE SMOOTH",
-"422 509 OFFCURVE",
-"393 498 OFFCURVE",
-"379 477 CURVE SMOOTH",
-"269 308 LINE",
-"261 314 LINE",
-"282 343 LINE",
-"198 477 LINE SMOOTH",
-"184 499 OFFCURVE",
-"159 509 OFFCURVE",
-"120 509 CURVE SMOOTH",
-"99 509 OFFCURVE",
+"481 509 OFFCURVE",
+"460 509 CURVE SMOOTH",
+"420 509 OFFCURVE",
+"391 498 OFFCURVE",
+"377 477 CURVE SMOOTH",
+"269 310 LINE",
+"261 316 LINE",
+"282 345 LINE",
+"200 477 LINE SMOOTH",
+"186 499 OFFCURVE",
+"161 509 OFFCURVE",
+"122 509 CURVE SMOOTH",
+"101 509 OFFCURVE",
 "62 502 OFFCURVE",
 "50 489 CURVE",
-"211 257 LINE",
+"209 257 LINE",
 "35 18 LINE",
 "54 -3 OFFCURVE",
-"88 -9 OFFCURVE",
-"111 -9 CURVE SMOOTH"
+"90 -9 OFFCURVE",
+"113 -9 CURVE SMOOTH"
 );
 }
 );
@@ -24272,40 +24272,40 @@ paths = (
 {
 closed = 1;
 nodes = (
-"96 -9 OFFCURVE",
-"126 1 OFFCURVE",
-"141 19 CURVE SMOOTH",
-"278 180 LINE",
-"358 19 LINE SMOOTH",
-"366 2 OFFCURVE",
-"399 -9 OFFCURVE",
-"427 -9 CURVE SMOOTH",
-"450 -9 OFFCURVE",
+"110 -9 OFFCURVE",
+"128 1 OFFCURVE",
+"143 19 CURVE SMOOTH",
+"278 178 LINE",
+"356 19 LINE SMOOTH",
+"364 2 OFFCURVE",
+"389 -9 OFFCURVE",
+"425 -9 CURVE SMOOTH",
+"448 -9 OFFCURVE",
 "477 -3 OFFCURVE",
 "500 18 CURVE",
-"365 257 LINE",
+"367 257 LINE",
 "568 489 LINE",
 "558 502 OFFCURVE",
-"525 509 OFFCURVE",
-"504 509 CURVE SMOOTH",
-"465 509 OFFCURVE",
-"432 498 OFFCURVE",
-"415 477 CURVE SMOOTH",
-"275 308 LINE",
-"268 314 LINE",
-"294 343 LINE",
-"234 477 LINE SMOOTH",
-"224 499 OFFCURVE",
-"200 509 OFFCURVE",
-"158 509 CURVE SMOOTH",
-"138 509 OFFCURVE",
+"523 509 OFFCURVE",
+"502 509 CURVE SMOOTH",
+"463 509 OFFCURVE",
+"430 498 OFFCURVE",
+"413 477 CURVE SMOOTH",
+"275 310 LINE",
+"268 316 LINE",
+"294 345 LINE",
+"236 477 LINE SMOOTH",
+"226 499 OFFCURVE",
+"202 509 OFFCURVE",
+"160 509 CURVE SMOOTH",
+"140 509 OFFCURVE",
 "105 502 OFFCURVE",
 "91 489 CURVE",
-"211 257 LINE",
+"209 257 LINE",
 "-7 18 LINE",
 "8 -3 OFFCURVE",
-"45 -9 OFFCURVE",
-"67 -9 CURVE SMOOTH"
+"47 -9 OFFCURVE",
+"69 -9 CURVE SMOOTH"
 );
 }
 );
@@ -24427,7 +24427,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2018-05-25 05:11:52 +0000";
+lastChange = "2018-06-19 05:04:19 +0000";
 layers = (
 {
 anchors = (
@@ -24594,19 +24594,19 @@ nodes = (
 "273 -54 CURVE SMOOTH",
 "501 504 LINE",
 "491 508 OFFCURVE",
-"485 509 OFFCURVE",
-"480 509 CURVE SMOOTH",
-"460 509 OFFCURVE",
-"451 497 OFFCURVE",
-"444 480 CURVE SMOOTH",
-"267 36 LINE",
-"262 37 LINE",
-"276 70 LINE",
-"113 480 LINE SMOOTH",
-"107 495 OFFCURVE",
-"95 509 OFFCURVE",
-"77 509 CURVE SMOOTH",
-"70 509 OFFCURVE",
+"483 509 OFFCURVE",
+"478 509 CURVE SMOOTH",
+"458 509 OFFCURVE",
+"449 497 OFFCURVE",
+"442 480 CURVE SMOOTH",
+"267 39 LINE",
+"262 40 LINE",
+"276 73 LINE",
+"115 480 LINE SMOOTH",
+"109 495 OFFCURVE",
+"97 509 OFFCURVE",
+"79 509 CURVE SMOOTH",
+"72 509 OFFCURVE",
 "63 507 OFFCURVE",
 "56 504 CURVE",
 "255 14 LINE",
@@ -24790,19 +24790,19 @@ nodes = (
 "219 -54 CURVE SMOOTH",
 "545 504 LINE",
 "536 508 OFFCURVE",
-"526 509 OFFCURVE",
-"522 509 CURVE SMOOTH",
-"502 509 OFFCURVE",
-"491 497 OFFCURVE",
-"481 480 CURVE SMOOTH",
-"225 36 LINE",
-"221 37 LINE",
-"240 70 LINE",
-"150 480 LINE SMOOTH",
-"147 495 OFFCURVE",
-"136 509 OFFCURVE",
-"119 509 CURVE SMOOTH",
-"114 509 OFFCURVE",
+"524 509 OFFCURVE",
+"520 509 CURVE SMOOTH",
+"500 509 OFFCURVE",
+"489 497 OFFCURVE",
+"479 480 CURVE SMOOTH",
+"225 39 LINE",
+"221 40 LINE",
+"240 73 LINE",
+"152 480 LINE SMOOTH",
+"149 495 OFFCURVE",
+"138 509 OFFCURVE",
+"121 509 CURVE SMOOTH",
+"116 509 OFFCURVE",
 "110 508 OFFCURVE",
 "100 504 CURVE",
 "213 14 LINE",
@@ -232099,7 +232099,7 @@ kerning = {
 V = -105;
 X = -25;
 f = -45;
-j = -65;
+j = -85;
 o = -45;
 quotedblright = -45;
 quoteright = -45;
@@ -232157,7 +232157,7 @@ y = -25;
 V = -35;
 X = -45;
 comma = -45;
-j = -65;
+j = -100;
 o = -25;
 quotedblright = -35;
 quoteright = -35;
@@ -232472,7 +232472,7 @@ z = -35;
 "@MMK_R_b" = -85;
 "@MMK_R_c" = -125;
 "@MMK_R_d" = -95;
-"@MMK_R_n" = -85;
+"@MMK_R_n" = -65;
 "@MMK_R_r" = -85;
 "@MMK_R_s" = -105;
 V = -45;
@@ -232562,7 +232562,7 @@ z = -25;
 "@MMK_R_T" = -75;
 "@MMK_R_W" = -45;
 "@MMK_R_Y" = -75;
-j = -45;
+j = -85;
 o = -25;
 v = -45;
 w = -35;
@@ -232647,6 +232647,7 @@ F = {
 "@MMK_R_n" = -75;
 "@MMK_R_r" = -125;
 "@MMK_R_s" = -125;
+E = -45;
 V = -25;
 X = -25;
 comma = -85;
@@ -233051,7 +233052,7 @@ y = -25;
 V = -105;
 X = -25;
 f = -45;
-j = -25;
+j = -85;
 o = -45;
 quotedblright = -45;
 quoteright = -45;
@@ -233105,7 +233106,7 @@ y = -25;
 V = -25;
 X = -45;
 comma = -45;
-j = -65;
+j = -100;
 o = -25;
 quotedblright = -35;
 quoteright = -35;
@@ -233413,7 +233414,7 @@ z = -35;
 "@MMK_R_b" = -85;
 "@MMK_R_c" = -125;
 "@MMK_R_d" = -95;
-"@MMK_R_n" = -85;
+"@MMK_R_n" = -65;
 "@MMK_R_r" = -85;
 "@MMK_R_s" = -105;
 V = -45;
@@ -233502,7 +233503,7 @@ z = -25;
 "@MMK_R_T" = -75;
 "@MMK_R_W" = -45;
 "@MMK_R_Y" = -75;
-j = -45;
+j = -85;
 o = -25;
 t = -25;
 v = -45;
@@ -233586,6 +233587,7 @@ F = {
 "@MMK_R_n" = -65;
 "@MMK_R_r" = -125;
 "@MMK_R_s" = -125;
+E = -45;
 V = -25;
 X = -25;
 comma = -85;
@@ -233901,7 +233903,7 @@ x = {
 "@MMK_R_Y" = -105;
 "@MMK_R_a" = -65;
 "@MMK_R_b" = -25;
-"@MMK_R_c" = -55;
+"@MMK_R_c" = -65;
 "@MMK_R_d" = -25;
 "@MMK_R_n" = -25;
 "@MMK_R_s" = -45;
@@ -233985,7 +233987,7 @@ y = -25;
 V = -125;
 X = -25;
 f = -45;
-j = -25;
+j = -85;
 o = -45;
 quotedblright = -45;
 quoteright = -45;
@@ -234042,7 +234044,7 @@ y = -25;
 V = -25;
 X = -45;
 comma = -45;
-j = -65;
+j = -100;
 o = -25;
 quotedblright = -35;
 quoteright = -35;
@@ -234357,7 +234359,7 @@ z = -35;
 "@MMK_R_b" = -65;
 "@MMK_R_c" = -165;
 "@MMK_R_d" = -165;
-"@MMK_R_n" = -95;
+"@MMK_R_n" = -65;
 "@MMK_R_r" = -125;
 "@MMK_R_s" = -125;
 V = -45;
@@ -234447,7 +234449,7 @@ z = -25;
 "@MMK_R_T" = -25;
 "@MMK_R_W" = -45;
 "@MMK_R_Y" = -75;
-j = -45;
+j = -85;
 o = -25;
 t = -25;
 v = -45;
@@ -234533,6 +234535,7 @@ F = {
 "@MMK_R_n" = -85;
 "@MMK_R_r" = -125;
 "@MMK_R_s" = -125;
+E = -45;
 V = -25;
 X = -25;
 comma = -85;
@@ -234575,7 +234578,7 @@ V = {
 V = -25;
 X = -45;
 comma = -55;
-j = -85;
+j = -105;
 k = -45;
 o = -95;
 period = -45;
@@ -234628,7 +234631,7 @@ f = {
 "@MMK_R_Y" = -45;
 "@MMK_R_a" = -75;
 "@MMK_R_b" = -45;
-"@MMK_R_c" = -65;
+"@MMK_R_c" = -85;
 "@MMK_R_d" = -75;
 "@MMK_R_f" = -65;
 "@MMK_R_n" = -45;
@@ -234860,7 +234863,7 @@ x = {
 "@MMK_R_Y" = -105;
 "@MMK_R_a" = -65;
 "@MMK_R_b" = -25;
-"@MMK_R_c" = -55;
+"@MMK_R_c" = -65;
 "@MMK_R_d" = -25;
 "@MMK_R_n" = -25;
 "@MMK_R_s" = -45;
@@ -234949,7 +234952,7 @@ y = -25;
 V = -105;
 X = -25;
 f = -45;
-j = -65;
+j = -85;
 o = -45;
 quotedblright = -45;
 quoteright = -45;
@@ -235007,7 +235010,7 @@ y = -25;
 V = -35;
 X = -45;
 comma = -45;
-j = -65;
+j = -100;
 o = -25;
 quotedblright = -35;
 quoteright = -35;
@@ -235322,7 +235325,7 @@ z = -35;
 "@MMK_R_b" = -85;
 "@MMK_R_c" = -125;
 "@MMK_R_d" = -95;
-"@MMK_R_n" = -85;
+"@MMK_R_n" = -65;
 "@MMK_R_r" = -85;
 "@MMK_R_s" = -105;
 V = -45;
@@ -235412,7 +235415,7 @@ z = -25;
 "@MMK_R_T" = -75;
 "@MMK_R_W" = -45;
 "@MMK_R_Y" = -75;
-j = -45;
+j = -85;
 o = -25;
 v = -45;
 w = -35;
@@ -235497,6 +235500,7 @@ F = {
 "@MMK_R_n" = -75;
 "@MMK_R_r" = -125;
 "@MMK_R_s" = -125;
+E = -45;
 V = -25;
 X = -25;
 comma = -85;
@@ -235901,7 +235905,7 @@ y = -25;
 V = -105;
 X = -25;
 f = -45;
-j = -25;
+j = -85;
 o = -45;
 quotedblright = -45;
 quoteright = -45;
@@ -235955,7 +235959,7 @@ y = -25;
 V = -25;
 X = -45;
 comma = -45;
-j = -65;
+j = -100;
 o = -25;
 quotedblright = -35;
 quoteright = -35;
@@ -236263,7 +236267,7 @@ z = -35;
 "@MMK_R_b" = -85;
 "@MMK_R_c" = -125;
 "@MMK_R_d" = -95;
-"@MMK_R_n" = -85;
+"@MMK_R_n" = -65;
 "@MMK_R_r" = -85;
 "@MMK_R_s" = -105;
 V = -45;
@@ -236352,7 +236356,7 @@ z = -25;
 "@MMK_R_T" = -75;
 "@MMK_R_W" = -45;
 "@MMK_R_Y" = -75;
-j = -45;
+j = -85;
 o = -25;
 t = -25;
 v = -45;
@@ -236436,6 +236440,7 @@ F = {
 "@MMK_R_n" = -65;
 "@MMK_R_r" = -125;
 "@MMK_R_s" = -125;
+E = -45;
 V = -25;
 X = -25;
 comma = -85;
@@ -236751,7 +236756,7 @@ x = {
 "@MMK_R_Y" = -105;
 "@MMK_R_a" = -65;
 "@MMK_R_b" = -25;
-"@MMK_R_c" = -55;
+"@MMK_R_c" = -65;
 "@MMK_R_d" = -25;
 "@MMK_R_n" = -25;
 "@MMK_R_s" = -45;
@@ -236892,7 +236897,7 @@ y = -25;
 V = -25;
 X = -45;
 comma = -45;
-j = -65;
+j = -100;
 o = -25;
 quotedblright = -35;
 quoteright = -35;
@@ -237207,7 +237212,7 @@ z = -35;
 "@MMK_R_b" = -65;
 "@MMK_R_c" = -165;
 "@MMK_R_d" = -165;
-"@MMK_R_n" = -95;
+"@MMK_R_n" = -65;
 "@MMK_R_r" = -125;
 "@MMK_R_s" = -125;
 V = -45;
@@ -237297,7 +237302,7 @@ z = -25;
 "@MMK_R_T" = -25;
 "@MMK_R_W" = -45;
 "@MMK_R_Y" = -75;
-j = -45;
+j = -85;
 o = -25;
 t = -25;
 v = -45;
@@ -237383,6 +237388,7 @@ F = {
 "@MMK_R_n" = -85;
 "@MMK_R_r" = -125;
 "@MMK_R_s" = -125;
+E = -45;
 V = -25;
 X = -25;
 comma = -85;
@@ -237425,7 +237431,7 @@ V = {
 V = -25;
 X = -45;
 comma = -55;
-j = -85;
+j = -105;
 k = -45;
 o = -95;
 period = -45;
@@ -237478,7 +237484,7 @@ f = {
 "@MMK_R_Y" = -45;
 "@MMK_R_a" = -75;
 "@MMK_R_b" = -45;
-"@MMK_R_c" = -65;
+"@MMK_R_c" = -85;
 "@MMK_R_d" = -75;
 "@MMK_R_f" = -65;
 "@MMK_R_n" = -45;
@@ -237710,7 +237716,7 @@ x = {
 "@MMK_R_Y" = -105;
 "@MMK_R_a" = -65;
 "@MMK_R_b" = -25;
-"@MMK_R_c" = -55;
+"@MMK_R_c" = -65;
 "@MMK_R_d" = -25;
 "@MMK_R_n" = -25;
 "@MMK_R_s" = -45;
