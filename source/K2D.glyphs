@@ -1,6 +1,6 @@
 {
 .appVersion = "1141";
-copyright = "Copyright (c) 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
+copyright = "Copyright (c) 2018, Cadson Demak (info@cadsondemak.com)";
 customParameters = (
 {
 name = vendorID;
