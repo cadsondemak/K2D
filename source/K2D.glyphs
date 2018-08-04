@@ -37,7 +37,7 @@ Tag = ital;
 );
 }
 );
-date = "2018-07-24 14:35:31 +0000";
+date = "2018-08-04 08:25:12 +0000";
 designer = "Katatrad Aksorn Co.,Ltd.";
 designerURL = www.katatrad.com;
 familyName = K2D;
@@ -123721,13 +123721,17 @@ unicode = 0E2B;
 },
 {
 glyphname = "loChula-thai";
-lastChange = "2018-07-08 08:32:23 +0000";
+lastChange = "2018-08-04 08:19:59 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 position = "{658, 0}";
+},
+{
+name = top;
+position = "{648, 689}";
 }
 );
 background = {
@@ -123950,6 +123954,10 @@ anchors = (
 {
 name = bottom;
 position = "{626, 0}";
+},
+{
+name = top;
+position = "{622, 689}";
 }
 );
 layerId = "467B800A-9F0B-4EDA-B6B6-3D16CD953827";
@@ -124065,6 +124073,10 @@ anchors = (
 {
 name = bottom;
 position = "{601, 0}";
+},
+{
+name = top;
+position = "{602, 689}";
 }
 );
 layerId = "D810D4E0-5EEA-4CB0-897C-7C2F2D158137";
@@ -124180,6 +124192,10 @@ anchors = (
 {
 name = bottom;
 position = "{614, 0}";
+},
+{
+name = top;
+position = "{724, 689}";
 }
 );
 background = {
@@ -124402,6 +124418,10 @@ anchors = (
 {
 name = bottom;
 position = "{580, 0}";
+},
+{
+name = top;
+position = "{697, 689}";
 }
 );
 layerId = "92CE152A-AC33-4332-A899-C7DC9B2DD026";
@@ -124517,6 +124537,10 @@ anchors = (
 {
 name = bottom;
 position = "{556, 0}";
+},
+{
+name = top;
+position = "{678, 689}";
 }
 );
 layerId = "8FB96992-DBAA-412F-B62D-2E73CBD2FD04";
